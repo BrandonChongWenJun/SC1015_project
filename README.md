@@ -16,22 +16,22 @@ This our mini project for SC1015.
 # Exploratory Data Analysis
 Key insights:
 
-Employees who travel frequently are likely to leave
-Male employees are likely to leave
-Single employees are likely to leave
-Employees with low income are more likely to leave
-Employees who work overtime are more likely to leave
+- Employees who travel frequently are likely to leave
+- Male employees are likely to leave
+- Single employees are likely to leave
+- Employees with low income are more likely to leave
+- Employees who work overtime are more likely to leave
 
 Odd insights:
 
-Those who performed average are more likely to stay while those with a lower or higher than average performance rating are more likely to leave
+- Those who performed average are more likely to stay while those with a lower or higher than average performance rating are more likely to leave
 
 Mutual Information (Independent variables with a score of 0):
 
-EducationField
-Gender
-YearsSinceLastPromotion
-RelationshipSatisfaction
+- EducationField
+- Gender
+- YearsSinceLastPromotion
+- RelationshipSatisfaction
 
 # Models Used
 1. DecisionTreeClassifier
