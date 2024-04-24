@@ -3,12 +3,13 @@
 ## About
 This our mini project for SC1015.
 
-- EDA:
+- EDA: https://github.com/ShahrulXXXX/SC1015_project/blob/main/Exploratory_Data_Analysis.ipynb
+- ML: https://github.com/ShahrulXXXX/SC1015_project/blob/main/machineLearning_1015.ipynb
 
 # Contributors
 - @ShahrulXXXX
 - @BrandonChongWenJun
-- @Olive3Jedon
+- @Olive3Jadon
 
 # Problem Definition
 - Are we able to predict whether an employee will leave the company based on the data provided in their employee yearly survey
@@ -45,3 +46,11 @@ Out of the tree machine learning models, Multi-layer Perceptron was able to achi
 Upon performing feature ranking, variables such as PerformanceRating, OverTime, JoiningYear, MonthlyIncome, YearsAtCompany are important in determining the accuracy of the models. 
 
 Upsampling of response variable was important to prevent class imbalance. 
+
+# Project Learnings
+- Neural network
+- GitHub
+- Upsampling to handle imbalanced datasets
+- Mutual information
+- Video editing
+- Encoding categorical variables (ordinal and nominal)
