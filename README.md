@@ -9,9 +9,9 @@ Files:
 - [ML](https://github.com/ShahrulXXXX/SC1015_project/blob/main/machineLearning_1015.ipynb)
 
 # Contributors
-- @ShahrulXXXX
-- @BrandonChongWenJun
-- @Olive3Jadon
+- [@ShahrulXXXX](https://github.com/ShahrulXXXX)
+- [@BrandonChongWenJun](https://github.com/BrandonChongWenJun)
+- [@Olive3Jadon](https://github.com/olive3jadon)
 
 # Problem Definition
 - Are we able to predict whether an employee will leave the company based on the data provided in their employee yearly survey
