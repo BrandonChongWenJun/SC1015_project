@@ -1,8 +1,21 @@
-# SC1015_project
+# Welcome to Group 4's repository
 
-# This is our project submission for SC1015
+## About
+This our mini project for SC1015.
 
-## EDA
+We did our EDA in: 
 
-These are the insights we obtained from our EDA:
-- 
+# Contributors
+- @ShahrulXXXX
+- @BrandonChongWenJun
+- @Olive3Jedon
+
+# Problem definition
+- Help the HR department to predict which employees are most likely to leave the job based on the data provided in their employee yearly survey
+
+# Models Used
+1. DecisionTreeClassifire
+2. Random Forest
+3. **Multi-layer Perceptron (NEURAL NETWORK)**
+
+# Conclusion
