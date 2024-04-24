@@ -11,7 +11,7 @@ This our mini project for SC1015.
 - @Olive3Jedon
 
 # Problem Definition
-- Help the HR department to predict which employees are most likely to leave the job based on the data provided in their employee yearly survey
+- Are we able to predict whether an employee will leave the company based on the data provided in their employee yearly survey
 
 # Exploratory Data Analysis
 Key insights:
@@ -34,7 +34,7 @@ YearsSinceLastPromotion
 RelationshipSatisfaction
 
 # Models Used
-1. DecisionTreeClassifire
+1. DecisionTreeClassifier
 2. Random Forest
 3. Multi-layer Perceptron (NEURAL NETWORK)
 
