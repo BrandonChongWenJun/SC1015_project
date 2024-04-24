@@ -4,7 +4,7 @@
 This our mini project for SC1015.
 
 
-Files
+Files:
 - [EDA](https://github.com/ShahrulXXXX/SC1015_project/blob/main/Exploratory_Data_Analysis.ipynb)
 - [ML](https://github.com/ShahrulXXXX/SC1015_project/blob/main/machineLearning_1015.ipynb)
 
