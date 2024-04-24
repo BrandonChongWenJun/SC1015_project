@@ -39,4 +39,9 @@ Mutual Information (Independent variables with a score of 0):
 3. Multi-layer Perceptron (NEURAL NETWORK)
 
 # Conclusion
-- 
+
+Out of the tree machine learning models, Multi-layer Perceptron was able to achieve the highest accuracy in predicting whether an employee will leave the company. Followed by Random forest Classification and then DecisionTreeClassifier. 
+
+Upon performing feature ranking, variables such as PerformanceRating, OverTime, JoiningYear, MonthlyIncome, YearsAtCompany are important in determining the accuracy of the models. 
+
+Upsampling of response variable was important to prevent class imbalance. 
